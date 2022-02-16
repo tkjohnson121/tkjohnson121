@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on helping startups build ther ideas.
 - 🌱 I’m currently learning everything I can.
 - 👯 I’m looking to collaborate on ideas, business ventures, and how to continue growing.
-- 💬 Ask me about motorcycles, JavaScript, or anything.
+- 💬 Ask me about React, Typescript, motorcycles, or anything self-improvement.
 - 📫 How to reach me: kj@gvempire.com
 - 😄 Pronouns: He/Him
-
